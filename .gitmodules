@@ -1,0 +1,6 @@
+[submodule "go"]
+	path = go
+	url = git@github.com:xldyswa/go.git
+[submodule "pkg/mod/github.com/xldyswa/websocket@v1.5.3"]
+	path = pkg/mod/github.com/xldyswa/websocket@v1.5.3
+	url = git@github.com:xldyswa/websocket.git
