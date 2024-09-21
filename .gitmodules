@@ -4,3 +4,6 @@
 [submodule "pkg/mod/github.com/xldyswa/pkg/mod/github.com/xldyswa/websocket@v1.5.5"]
 	path = pkg/mod/github.com/xldyswa/pkg/mod/github.com/xldyswa/websocket@v1.5.5
 	url = git@github.com:xldyswa/websocket.git
+[submodule "pkg/mod/github.com/xldyswa/websocket@v1.5.5"]
+	path = pkg/mod/github.com/xldyswa/websocket@v1.5.5
+	url = git@github.com:xldyswa/websocket.git
