@@ -24,3 +24,8 @@ git submodule add git@github.com:xldyswa/go.git go
 git submodule add git@github.com:xldyswa/websocket.git pkg/mod/github.com/xldyswa/websocket@v1.5.5
 git submodule init
 ```
+
+```
+git clone --recurse-submodules git@github.com:xldyswa/data.git
+export GOMODCACHE=/home/ubuntu/data/pkg/mod
+```
