@@ -24,7 +24,7 @@ git submodule add git@github.com:xldyswa/go.git go
 git submodule add git@github.com:xldyswa/websocket.git pkg/mod/github.com/xldyswa/websocket@v1.5.4
 git submodule init
 ```
-6.将mod指向自己data库里的mod
+6.使用时拉取data库并将mod位置改成自己data库里的mod位置
 ```
 git clone --recurse-submodules git@github.com:xldyswa/data.git
 export GOMODCACHE=/home/ubuntu/data/pkg/mod
