@@ -21,7 +21,7 @@ git push origin v1.5.4
 5.添加go,websocket子模块
 ```
 git submodule add git@github.com:xldyswa/go.git go
-git submodule add git@github.com:xldyswa/websocket.git pkg/mod/github.com/xldyswa/websocket@v1.5.5
+git submodule add git@github.com:xldyswa/websocket.git pkg/mod/github.com/xldyswa/websocket@v1.5.4
 git submodule init
 ```
 
